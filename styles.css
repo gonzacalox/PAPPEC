@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0px;
+padding:0px;
+text-align:center}
+body{background:#000;}
+
+header{background:#F00}
+
+footer{background:#000;
+height:200px}
+
+.contenido{background:#CC6;
+width:1200px;
+margin:auto;}
+
+aside{background:#00F;
+float:left;}
+
+
+
+
+
